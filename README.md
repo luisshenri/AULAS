@@ -12,3 +12,6 @@
 [20.04.zip](https://github.com/luisshenri/AULAS/files/15048420/20.04.zip)
 
 [aula18.05.zip](https://github.com/luisshenri/AULAS/files/15365339/aula18.05.zip)
+
+
+[AULA25.5.zip](https://github.com/luisshenri/AULAS/files/15443807/AULA25.5.zip)
